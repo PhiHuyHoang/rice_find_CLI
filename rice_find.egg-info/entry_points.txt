@@ -1,0 +1,3 @@
+[console_scripts]
+rice_find = find.cli:start
+

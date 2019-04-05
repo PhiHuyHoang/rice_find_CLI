@@ -1,0 +1,11 @@
+setup.cfg
+setup.py
+find/__init__.py
+find/cli.py
+find/function.py
+rice_find.egg-info/PKG-INFO
+rice_find.egg-info/SOURCES.txt
+rice_find.egg-info/dependency_links.txt
+rice_find.egg-info/entry_points.txt
+rice_find.egg-info/requires.txt
+rice_find.egg-info/top_level.txt
